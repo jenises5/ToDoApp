@@ -2,15 +2,15 @@
 const tasks = [
     {
         id: 1,
-        title: "Design User Interface",
+        title: "CC225   Final project",
         description: "Create wireframes and mockups for the new dashboard",
         status: "todo",
         priority: "high",
-        dueDate: "2025-05-25"
+        dueDate: "2025-05-30"
     },
     {
         id: 2,
-        title: "Implement Authentication",
+        title: "AP2 TOdo web with js",
         description: "Add login and registration functionality to the application",
         status: "todo",
         priority: "high",
@@ -18,7 +18,7 @@ const tasks = [
     },
     {
         id: 3,
-        title: "Setup Database Schema",
+        title: "BPM FINAL",
         description: "Design and implement the database structure",
         status: "inprogress",
         priority: "medium",
@@ -26,27 +26,27 @@ const tasks = [
     },
     {
         id: 4,
-        title: "Create API Documentation",
+        title: "PLAY ML 1-2:00 P.M",
         description: "Document all API endpoints and their usage",
         status: "inprogress",
         priority: "low",
-        dueDate: "2025-05-30"
+        dueDate: "EVERYDAY"
     },
     {
         id: 5,
-        title: "Initial Project Setup",
+        title: "STUDY JS",
         description: "Initialize repository and configure development environment",
         status: "done",
         priority: "medium",
-        dueDate: "2025-05-20"
+        dueDate: "UNTIL EXAM"
     },
     {
         id: 6,
-        title: "Requirements Gathering",
+        title: "PEE INFOGRAPHICS",
         description: "Meet with stakeholders to gather project requirements",
         status: "done",
         priority: "high",
-        dueDate: "2025-05-18"
+        dueDate: "2025-05-30"
     },
     {
         id: 7,
